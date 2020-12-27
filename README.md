@@ -20,22 +20,28 @@ I am **Bigyan Ghimire**.
 ### Languages and Tools:
 
 [<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+<img alt="Flutter" width="30px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
+</code>](https://flutter.dev)
+[<code>
+<img alt="Dart" width="30px" src="https://img.icons8.com/color/48/000000/dart.png"/>
+</code>](https://dart.dev/)
+[<code>
+<img alt="visual studio code" width="30px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
 [<code>
-<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
+<img alt="intellij idea" width="30px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
 </code>](https://www.jetbrains.com/idea/)
 [<code>
-<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
+<img alt="json" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
 </code>](https://www.json.org/json-en.html)
 [<code>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
+<img alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
 [<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
+<img alt="github" width="30px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
 </code>](https://github.com/)
 [<code>
-<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
+<img alt="ubuntu" width="30px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
 </code>](https://ubuntu.com/)
 
 [linkedin]: https://www.linkedin.com/in/bigyan-ghimire-4bb21816a
