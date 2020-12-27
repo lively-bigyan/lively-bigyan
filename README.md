@@ -15,7 +15,9 @@ I am **Bigyan Ghimire**.
 [<img align="left" alt="Bigyan | Skype" height="22px" src="./assets/Skype.png" />][skype]
 [<img align="left" alt="Bigyan | Upwork" height="22px" src="./assets/upwork.png" />][upwork]
 
----
+
+
+
 
 ### Languages and Tools:
 
