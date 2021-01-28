@@ -7,6 +7,7 @@ I am **Bigyan Ghimire**.
 - 📫 How to reach me: lively.bigyan@gmail.com
 - ⚡⚡  Fun fact: My name is translation of "Science" in my native language :)
 
+&nbsp;
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 [<img align="left" alt="Bigyan | Gmail" height="22px" src="./assets/Gmail.png" />][gmail]
@@ -16,9 +17,12 @@ I am **Bigyan Ghimire**.
 [<img align="left" alt="Bigyan | Upwork" height="22px" src="./assets/upwork.png" />][upwork]
 
 </br>
----
 
+&nbsp;
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lively-bigyan)](https://github.com/lively-bigyan)
+
+&nbsp;
 ### Languages and Tools:
 
 [<code>
@@ -51,3 +55,6 @@ I am **Bigyan Ghimire**.
 [twitter]: https://twitter.com/_bigyan_
 [skype]: https://join.skype.com/invite/Yf41vNuvEpGW
 [upwork]: https://www.upwork.com/freelancers/~01b21867bb50d63f5b
+
+
+
