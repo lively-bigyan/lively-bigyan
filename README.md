@@ -8,6 +8,12 @@ I am **Bigyan Ghimire**.
 - ⚡⚡  Fun fact: My name is translation of "Science" in my native language :)
 
 &nbsp;
+<row>
+
+[![Bigyan's github stats](https://github-readme-stats.vercel.app/api?username=lively-bigyan&count_private=true&show_icons=true)](https://github.com/lively-bigyan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lively-bigyan)](https://github.com/lively-bigyan)
+</row>
+
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 [<img align="left" alt="Bigyan | Gmail" height="22px" src="./assets/Gmail.png" />][gmail]
@@ -20,7 +26,7 @@ I am **Bigyan Ghimire**.
 
 &nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lively-bigyan)](https://github.com/lively-bigyan)
+
 
 &nbsp;
 ### Languages and Tools:
